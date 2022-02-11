@@ -33,6 +33,8 @@ body{
    height: 50px;
    border-radius: 2px;
    border: 1px #220901 solid;
+   padding-left: 10px;
+   z-index: 4;
 }
 .btn{
     height: 50px;
@@ -41,6 +43,7 @@ body{
     cursor: pointer;
     border-radius: 2px;
     border: 1px #220901 solid;
+    z-index: 4;
 }
 .display{
     display: flex;
